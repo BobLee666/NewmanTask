@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="PASAnewman" />
+        <module name="leetcode" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="HadoopProj" target="1.5" />
+      <module name="leetcode" target="1.5" />
       <module name="PASAnewman" target="1.5" />
     </bytecodeTargetLevel>
   </component>
