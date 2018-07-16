@@ -1,5 +1,6 @@
 package mergetwosortedlists;
 
+import datastructure.ListNode;
 
 
 public class Solution {
